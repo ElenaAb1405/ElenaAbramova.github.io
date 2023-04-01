@@ -4,7 +4,7 @@
 
 ### Category 1  Data Science projects
 
-[Project 1. Capstone in BrainStation: "To predict COVID-19 impact on mental health disease in the USA"](/sample_page.md)
+[Project 1. Capstone in BrainStation: "To predict COVID-19 impact on mental health disease in the USA"](/pdf/Capstone_BrainStation_final presentation.pdf)
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
 ---
