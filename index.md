@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category Capstone project in BrainStation 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[TO PREDICT COVID-19 IMPACT ON MENTAL HEALTH DISEASE IN THE USA](/sample_page)
+<img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
