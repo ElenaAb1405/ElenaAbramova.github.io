@@ -2,7 +2,7 @@
 
 ---
 
-### Category 1  Data Science projects
+### Category 1.  Data Science projects
 
 [Project 1. Capstone in BrainStation: "To predict COVID-19 impact on mental health disease in the USA"](/pdf/Capstone_BrainStation_final presentation.pdf)
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
@@ -17,10 +17,10 @@
 
 ---
 
-### Category Name 2
+### Category 2. Public Speaking Events
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Project 1 Andy Talks 2022](http://example.com/)
+- [Project 2 Skill Factory 2022](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
