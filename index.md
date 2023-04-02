@@ -19,9 +19,9 @@
 
 ### Category 2. Public Speaking Events
 
-- [Project 1. Andy Talks 2022](/image/Andy Talks.pdf)
-- [Project 2. Skill Factory 2022](/image/Skill Factory Certificate.pdf)
-- [Project 3. Industry Challenge - Hackathon BrainStation+Bench Accounting ](/image/Industry challenge.jpg)
+- [Project 1. Andy Talks 2022](/images/Andy Talks.pdf)
+- [Project 2. Skill Factory 2022](/images/Skill Factory Certificate.pdf)
+- [Project 3. Industry Challenge - Hackathon BrainStation+Bench Accounting ](/images/Industry challenge.jpg)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
