@@ -8,12 +8,12 @@
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- [Project 3 Title](http://example.com/) -->
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
@@ -22,8 +22,7 @@
 - [Project 1. Andy Talks 2022](/images/Andy Talks.pdf)
 - [Project 2. Skill Factory 2022](/images/Skill Factory Certificate.pdf)
 - [Project 3. Industry Challenge - Hackathon BrainStation+Bench Accounting ](/images/Industry challenge.jpg)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
