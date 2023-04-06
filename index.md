@@ -2,13 +2,12 @@
 
 ---
 
-### Category 1.  Data Science projects_Capstone in BrainStation
+### Category 1.  Data Science project_Capstone in BrainStation
 
-[Project 1. Final presentation: "To predict COVID-19 impact on mental health disease in the USA"](/pdf/Capstone_BrainStation_final presentation.pdf)
+[Final presentation: "To predict COVID-19 impact on mental health disease in the USA"](/pdf/Capstone_BrainStation_final presentation.pdf)
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
----
-[Project 2. Dashboard with key insights about stress in Tableau](https://public.tableau.com/app/profile/elena.abramova5256/viz/Analysis_Covid_Survey_forCapstone/Keyinsigtsaboutstress)
+[Dashboard with key insights about stress in Tableau](https://public.tableau.com/app/profile/elena.abramova5256/viz/Analysis_Covid_Survey_forCapstone/Keyinsigtsaboutstress)
 <img src="images/Key insights about stress.jpg?raw=true"/>
 
 ---
