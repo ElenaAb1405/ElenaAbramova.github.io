@@ -8,7 +8,7 @@
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
 ---
-Project 2. Dashboard with key insights about stress in Tableau
+[Project 2. Dashboard with key insights about stress in Tableau](https://public.tableau.com/app/profile/elena.abramova5256/viz/Analysis_Covid_Survey_forCapstone/Keyinsigtsaboutstress)
 <img src="images/Key insights about stress.jpg?raw=true"/>
 
 ---
@@ -18,7 +18,7 @@ Project 2. Dashboard with key insights about stress in Tableau
 
 ---
 
-### Category 2. Public Speaking Events
+### Category 2. Public Speaking Events in Tech
 
 - [Project 1. Andy Talks 2022](/images/Andy Talks.pdf)
 - [Project 2. Skill Factory 2022](/images/Skill Factory Certificate.pdf)
