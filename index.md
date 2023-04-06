@@ -9,7 +9,7 @@
 
 ---
 [Project 1. Dashboard with key insights for Capstone in Tableau](http://example.com/)
-<img src="images/Key insights about stress.png?raw=true"/>
+<img src="images/Key insights about stress.jpg?raw=true"/>
 
 ---
 [Project 2 Title](http://example.com/)
