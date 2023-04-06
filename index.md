@@ -8,7 +8,7 @@
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
 ---
-[Dashboard with key insights for Capstone in Tableau](/pdf/sample_presentation.pdf)
+[Project 1. Dashboard with key insights for Capstone in Tableau](http://example.com/)
 <img src="images/Key insights about stress.png?raw=true"/>
 
 ---
