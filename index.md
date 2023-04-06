@@ -5,11 +5,11 @@
 ### Category 1.  Data Science projects
 
 [Project 1. Capstone in BrainStation: "To predict COVID-19 impact on mental health disease in the USA"](/pdf/Capstone_BrainStation_final presentation.pdf)
-<img src="images/Key insights about stress.png?raw=true"/>
+<img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
 
 ---
-<!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+[Dashboard with key insights for Capstone in Tableau](/pdf/sample_presentation.pdf)
+<img src="images/Key insights about stress.png?raw=true"/>
 
 ---
 <!-- [Project 3 Title](http://example.com/) -->
