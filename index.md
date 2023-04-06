@@ -6,6 +6,7 @@
 
 [Project 1. Capstone in BrainStation: "To predict COVID-19 impact on mental health disease in the USA"](/pdf/Capstone_BrainStation_final presentation.pdf)
 <img src="pdf/Capstone_BrainStation_final presentation.pdf?raw=true"/>
+<img src="images/Key insights about stress.png?raw=true"/>
 
 ---
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf) -->
